@@ -1,9 +1,9 @@
 ## 🚀 About Me
 I'm a full stack developer...
 
-# Project Title
+# PayPal Payment Integration
 
-A brief description of what this project does and who it's for
+Integrating PayPal into your own HTML/CSS/JS product pages can greatly improve the user experience and streamline the checkout process for your customers.
 
 
 ![Logo](logo-PayPal-Developer.svg)
